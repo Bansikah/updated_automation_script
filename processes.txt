@@ -1,0 +1,279 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 08:02 ?        00:00:06 /sbin/init splash
+root           2       0  0 08:02 ?        00:00:00 [kthreadd]
+root           3       2  0 08:02 ?        00:00:00 [rcu_gp]
+root           4       2  0 08:02 ?        00:00:00 [rcu_par_gp]
+root           5       2  0 08:02 ?        00:00:00 [slub_flushwq]
+root           6       2  0 08:02 ?        00:00:00 [netns]
+root           8       2  0 08:02 ?        00:00:00 [kworker/0:0H-events_highpri]
+root          10       2  0 08:02 ?        00:00:00 [mm_percpu_wq]
+root          11       2  0 08:02 ?        00:00:00 [rcu_tasks_kthread]
+root          12       2  0 08:02 ?        00:00:00 [rcu_tasks_rude_kthread]
+root          13       2  0 08:02 ?        00:00:00 [rcu_tasks_trace_kthread]
+root          14       2  0 08:02 ?        00:00:01 [ksoftirqd/0]
+root          15       2  0 08:02 ?        00:00:22 [rcu_preempt]
+root          16       2  0 08:02 ?        00:00:00 [migration/0]
+root          17       2  0 08:02 ?        00:00:00 [idle_inject/0]
+root          19       2  0 08:02 ?        00:00:00 [cpuhp/0]
+root          20       2  0 08:02 ?        00:00:00 [cpuhp/1]
+root          21       2  0 08:02 ?        00:00:00 [idle_inject/1]
+root          22       2  0 08:02 ?        00:00:00 [migration/1]
+root          23       2  0 08:02 ?        00:00:21 [ksoftirqd/1]
+root          25       2  0 08:02 ?        00:00:00 [kworker/1:0H-events_highpri]
+root          26       2  0 08:02 ?        00:00:00 [cpuhp/2]
+root          27       2  0 08:02 ?        00:00:00 [idle_inject/2]
+root          28       2  0 08:02 ?        00:00:00 [migration/2]
+root          29       2  0 08:02 ?        00:00:00 [ksoftirqd/2]
+root          31       2  0 08:02 ?        00:00:00 [kworker/2:0H-events_highpri]
+root          32       2  0 08:02 ?        00:00:00 [cpuhp/3]
+root          33       2  0 08:02 ?        00:00:00 [idle_inject/3]
+root          34       2  0 08:02 ?        00:00:00 [migration/3]
+root          35       2  0 08:02 ?        00:00:00 [ksoftirqd/3]
+root          37       2  0 08:02 ?        00:00:00 [kworker/3:0H-events_highpri]
+root          38       2  0 08:02 ?        00:00:00 [kdevtmpfs]
+root          39       2  0 08:02 ?        00:00:00 [inet_frag_wq]
+root          40       2  0 08:02 ?        00:00:00 [kauditd]
+root          41       2  0 08:02 ?        00:00:00 [khungtaskd]
+root          43       2  0 08:02 ?        00:00:00 [oom_reaper]
+root          45       2  0 08:02 ?        00:00:00 [writeback]
+root          46       2  0 08:02 ?        00:00:03 [kcompactd0]
+root          47       2  0 08:02 ?        00:00:00 [ksmd]
+root          49       2  0 08:02 ?        00:00:00 [khugepaged]
+root          50       2  0 08:02 ?        00:00:00 [kintegrityd]
+root          51       2  0 08:02 ?        00:00:00 [kblockd]
+root          52       2  0 08:02 ?        00:00:00 [blkcg_punt_bio]
+root          53       2  0 08:02 ?        00:00:00 [tpm_dev_wq]
+root          54       2  0 08:02 ?        00:00:00 [ata_sff]
+root          55       2  0 08:02 ?        00:00:00 [md]
+root          56       2  0 08:02 ?        00:00:00 [edac-poller]
+root          57       2  0 08:02 ?        00:00:00 [devfreq_wq]
+root          59       2  0 08:02 ?        00:00:00 [watchdogd]
+root          62       2  0 08:02 ?        00:00:01 [kworker/1:1H-kblockd]
+root          63       2  0 08:02 ?        00:00:01 [kswapd0]
+root          64       2  0 08:02 ?        00:00:00 [ecryptfs-kthread]
+root          65       2  0 08:02 ?        00:00:00 [kthrotld]
+root          66       2  0 08:02 ?        00:00:00 [irq/122-aerdrv]
+root          67       2  0 08:02 ?        00:00:00 [irq/123-aerdrv]
+root          68       2  0 08:02 ?        00:00:00 [acpi_thermal_pm]
+root          69       2  0 08:02 ?        00:00:00 [xenbus_probe]
+root          70       2  0 08:02 ?        00:00:00 [hwrng]
+root          71       2  0 08:02 ?        00:00:00 [mld]
+root          72       2  0 08:02 ?        00:00:01 [kworker/3:1H-events_highpri]
+root          73       2  0 08:02 ?        00:00:00 [ipv6_addrconf]
+root          81       2  0 08:02 ?        00:00:00 [kstrp]
+root          83       2  0 08:02 ?        00:00:00 [zswap-shrink]
+root          88       2  0 08:02 ?        00:00:00 [charger_manager]
+root         110       2  0 08:02 ?        00:00:02 [kworker/0:1H-kblockd]
+root         124       2  0 08:02 ?        00:00:02 [kworker/2:1H-kblockd]
+root         136       2  0 08:02 ?        00:00:00 [scsi_eh_0]
+root         137       2  0 08:02 ?        00:00:00 [scsi_tmf_0]
+root         138       2  0 08:02 ?        00:00:00 [scsi_eh_1]
+root         139       2  0 08:02 ?        00:00:00 [scsi_tmf_1]
+root         140       2  0 08:02 ?        00:00:00 [scsi_eh_2]
+root         141       2  0 08:02 ?        00:00:00 [scsi_tmf_2]
+root         185       2  0 08:02 ?        00:00:01 [jbd2/sda3-8]
+root         186       2  0 08:02 ?        00:00:00 [ext4-rsv-conver]
+root         226       1  0 08:02 ?        00:00:02 /lib/systemd/systemd-journald
+root         256       1  0 08:02 ?        00:00:02 /lib/systemd/systemd-udevd
+root         326       2  0 08:02 ?        00:00:00 [irq/128-mei_me]
+root         343       2  0 08:02 ?        00:00:00 [cfg80211]
+root         346       2  0 08:02 ?        00:00:13 [irq/129-iwlwifi]
+root         406       2  0 08:02 ?        00:00:00 [cryptd]
+root         426       2  0 08:02 ?        00:00:00 [card0-crtc0]
+root         428       2  0 08:02 ?        00:00:00 [card0-crtc1]
+root         429       2  0 08:02 ?        00:00:00 [card0-crtc2]
+systemd+     504       1  0 08:02 ?        00:01:11 /lib/systemd/systemd-oomd
+systemd+     505       1  0 08:02 ?        00:00:02 /lib/systemd/systemd-resolved
+systemd+     506       1  0 08:02 ?        00:00:00 /lib/systemd/systemd-timesyncd
+root         743       1  0 08:02 ?        00:00:01 /usr/libexec/accounts-daemon
+root         744       1  0 08:02 ?        00:00:03 /usr/sbin/acpid
+avahi        747       1  0 08:02 ?        00:00:02 avahi-daemon: running [bansikah-Latitude-E7470.local]
+root         748       1  0 08:02 ?        00:00:00 /usr/lib/bluetooth/bluetoothd
+root         750       1  0 08:02 ?        00:00:00 /usr/sbin/cron -f -P
+message+     751       1  0 08:02 ?        00:00:10 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         753       1  0 08:02 ?        00:00:09 /usr/sbin/NetworkManager --no-daemon
+root         759       1  0 08:02 ?        00:00:03 /usr/sbin/irqbalance --foreground
+root         760       1  0 08:02 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         761       1  0 08:02 ?        00:00:06 /usr/libexec/polkitd --no-debug
+root         763       1  0 08:02 ?        00:00:00 /usr/libexec/power-profiles-daemon
+syslog       766       1  0 08:02 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root         768       1  0 08:02 ?        00:00:09 /usr/lib/snapd/snapd
+root         770       1  0 08:02 ?        00:00:00 /usr/libexec/switcheroo-control
+root         778       1  0 08:02 ?        00:00:00 /lib/systemd/systemd-logind
+root         779       1  0 08:02 ?        00:01:30 /usr/sbin/thermald --systemd --dbus-enable --adaptive
+root         780       1  0 08:02 ?        00:00:03 /usr/libexec/udisks2/udisksd
+root         781       1  0 08:02 ?        00:00:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        790     747  0 08:02 ?        00:00:00 avahi-daemon: chroot helper
+root         827       1  0 08:02 ?        00:00:00 /usr/sbin/ModemManager
+root         832       1  0 08:02 ?        00:00:00 /usr/sbin/cupsd -l
+root         837       1  2 08:02 ?        00:05:02 /snap/multipass/10244/bin/multipassd --verbosity debug --logger platform
+root         840       1  0 08:02 ?        00:01:17 /usr/bin/containerd
+root         870       1  0 08:02 ?        00:00:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+lp           874     832  0 08:02 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+root         877       1  0 08:02 ?        00:00:00 /usr/sbin/gdm3
+root         932       1  0 08:02 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+rtkit       1009       1  0 08:02 ?        00:00:00 /usr/libexec/rtkit-daemon
+root        1234       1  0 08:02 ?        00:00:00 /usr/libexec/upowerd
+root        1316       1  0 08:02 ?        00:00:11 dockerd --group docker --exec-root=/run/snap.docker --data-root=/var/snap/docker/common/var-lib-docker --pidfile=/run/snap.docker/docker.pid --config-file=/var/snap/docker/2904/config/daemon.json
+root        1367       1  0 08:02 ?        00:00:13 /usr/libexec/packagekitd
+root        1655       1  0 08:02 ?        00:00:00 /usr/sbin/cups-browsed
+root        1656       1  0 08:02 ?        00:00:08 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
+kernoops    1670       1  0 08:02 ?        00:00:00 /usr/sbin/kerneloops --test
+colord      1676       1  0 08:02 ?        00:00:01 /usr/libexec/colord
+kernoops    1681       1  0 08:02 ?        00:00:00 /usr/sbin/kerneloops
+nobody      2119     837  0 08:02 ?        00:00:00 /snap/multipass/10244/usr/sbin/dnsmasq --keep-in-foreground --strict-order --bind-interfaces --pid-file --domain=multipass --local=/multipass/ --except-interface=lo --interface=mpqemubr0 --listen-address=10.126.63.1 --dhcp-no-override --dhcp-ignore-clid --dhcp-authoritative --dhcp-leasefile=/var/snap/multipass/common/data/multipassd/network/dnsmasq.leases --dhcp-hostsfile=/var/snap/multipass/common/data/multipassd/network/dnsmasq.hosts --dhcp-range 10.126.63.2,10.126.63.254,infinite --conf-file=/var/snap/multipass/common/data/multipassd/network/dnsmasq-gtqwvl.conf
+root        2183    1316  0 08:02 ?        00:00:29 containerd --config /run/snap.docker/containerd/containerd.toml --log-level error
+root        2416     837  1 08:03 ?        00:02:24 /snap/multipass/10244/usr/bin/qemu-system-x86_64 -bios OVMF.fd --enable-kvm -cpu host -nic tap,ifname=tap-1e376645a40,script=no,downscript=no,model=virtio-net-pci,mac=52:54:00:c6:e8:6a -device virtio-scsi-pci,id=scsi0 -drive file=/var/snap/multipass/common/data/multipassd/vault/instances/primary/ubuntu-22.04-server-cloudimg-amd64.img,if=none,format=qcow2,discard=unmap,id=hda -device scsi-hd,drive=hda,bus=scsi0.0 -smp 1 -m 1024M -qmp stdio -chardev null,id=char0 -serial chardev:char0 -nographic -cdrom /var/snap/multipass/common/data/multipassd/vault/instances/primary/cloud-init-config.iso
+root        2424       2  0 08:03 ?        00:00:00 [kvm]
+root        2425       2  0 08:03 ?        00:00:00 [kvm-nx-lpage-recovery-2416]
+root        2429       2  0 08:03 ?        00:00:00 [kvm-pit/2416]
+root        2450     877  0 08:04 ?        00:00:00 gdm-session-worker [pam/gdm-password]
+bansikah    2464       1  0 08:04 ?        00:00:04 /lib/systemd/systemd --user
+bansikah    2465    2464  0 08:04 ?        00:00:00 (sd-pam)
+bansikah    2471    2464  0 08:04 ?        00:00:00 /usr/bin/pipewire
+bansikah    2472    2464  0 08:04 ?        00:00:00 /usr/bin/pipewire-media-session
+bansikah    2473    2464  1 08:04 ?        00:02:38 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+bansikah    2483       1  0 08:04 ?        00:00:01 /usr/bin/gnome-keyring-daemon --daemonize --login
+bansikah    2487    2464  0 08:04 ?        00:00:08 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+bansikah    2502    2464  0 08:04 ?        00:00:00 /usr/libexec/gvfsd
+bansikah    2503    2464  0 08:04 ?        00:00:00 /usr/libexec/xdg-document-portal
+bansikah    2510    2464  0 08:04 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+bansikah    2511    2450  0 08:04 tty2     00:00:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+bansikah    2513    2464  0 08:04 ?        00:00:00 /usr/libexec/xdg-permission-store
+root        2528    2503  0 08:04 ?        00:00:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+bansikah    2532    2511  0 08:04 tty2     00:00:00 /usr/libexec/gnome-session-binary --session=ubuntu
+bansikah    2625    2464  0 08:04 ?        00:00:00 /usr/libexec/gnome-session-ctl --monitor
+bansikah    2641    2464  0 08:04 ?        00:00:01 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+root        2651       2  0 08:04 ?        00:00:00 [krfcommd]
+bansikah    2659    2641  0 08:04 ?        00:00:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+bansikah    2666    2659  0 08:04 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+bansikah    2669    2464  8 08:04 ?        00:19:12 /usr/bin/gnome-shell
+bansikah    2700    2464  0 08:04 ?        00:00:00 /usr/libexec/gnome-shell-calendar-server
+bansikah    2706    2464  0 08:04 ?        00:00:00 /usr/libexec/evolution-source-registry
+bansikah    2713    2464  0 08:04 ?        00:00:00 /usr/libexec/goa-daemon
+bansikah    2723    2464  0 08:04 ?        00:00:00 /usr/libexec/dconf-service
+bansikah    2724    2464  0 08:04 ?        00:00:00 /usr/libexec/goa-identity-service
+bansikah    2725    2464  0 08:04 ?        00:00:00 /usr/libexec/evolution-calendar-factory
+bansikah    2733    2464  0 08:04 ?        00:00:03 /usr/libexec/gvfs-udisks2-volume-monitor
+bansikah    2748    2464  0 08:04 ?        00:00:00 /usr/libexec/evolution-addressbook-factory
+bansikah    2752    2464  0 08:04 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+bansikah    2756    2464  0 08:04 ?        00:00:01 /usr/libexec/gvfs-afc-volume-monitor
+bansikah    2763    2464  0 08:04 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+bansikah    2772    2464  0 08:04 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+bansikah    2779    2464  0 08:04 ?        00:00:00 /snap/snapd-desktop-integration/83/usr/bin/snapd-desktop-integration
+bansikah    2794    2502  0 08:04 ?        00:00:00 /usr/libexec/gvfsd-trash --spawner :1.3 /org/gtk/gvfs/exec_spaw/0
+bansikah    2839    2464  0 08:04 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+bansikah    2841    2464  0 08:04 ?        00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+bansikah    2865    2464  0 08:04 ?        00:00:00 sh -c /usr/bin/ibus-daemon --panel disable $([ "$XDG_SESSION_TYPE" = "x11" ] && echo "--xim")
+bansikah    2866    2464  0 08:04 ?        00:00:00 /usr/libexec/gsd-a11y-settings
+bansikah    2867    2464  0 08:04 ?        00:00:03 /usr/libexec/gsd-color
+bansikah    2871    2865  0 08:04 ?        00:00:04 /usr/bin/ibus-daemon --panel disable
+bansikah    2872    2464  0 08:04 ?        00:00:00 /usr/libexec/gsd-datetime
+bansikah    2875    2464  0 08:04 ?        00:00:02 /usr/libexec/gsd-housekeeping
+bansikah    2880    2464  0 08:04 ?        00:00:00 /usr/libexec/gsd-keyboard
+bansikah    2888    2464  0 08:04 ?        00:00:01 /usr/libexec/gsd-media-keys
+bansikah    2889    2464  0 08:04 ?        00:00:01 /usr/libexec/gsd-power
+bansikah    2890    2464  0 08:04 ?        00:00:00 /usr/libexec/gsd-print-notifications
+bansikah    2892    2464  0 08:04 ?        00:00:00 /usr/libexec/gsd-rfkill
+bansikah    2894    2464  0 08:04 ?        00:00:00 /usr/libexec/gsd-screensaver-proxy
+bansikah    2896    2464  0 08:04 ?        00:00:03 /usr/libexec/gsd-sharing
+bansikah    2897    2464  0 08:04 ?        00:00:00 /usr/libexec/gsd-smartcard
+bansikah    2900    2464  0 08:04 ?        00:00:00 /usr/libexec/gsd-sound
+bansikah    2902    2464  0 08:04 ?        00:00:01 /usr/libexec/gsd-wacom
+bansikah    2931    2641  0 08:04 ?        00:00:01 /usr/libexec/evolution-data-server/evolution-alarm-notify
+bansikah    2933    2641  0 08:04 ?        00:00:00 /usr/libexec/gsd-disk-utility-notify
+bansikah    2989    2464  0 08:04 ?        00:00:00 /usr/libexec/gsd-printer
+bansikah    3008    2871  0 08:04 ?        00:00:00 /usr/libexec/ibus-memconf
+bansikah    3012    2871  0 08:04 ?        00:00:07 /usr/libexec/ibus-extension-gtk3
+bansikah    3016    2464  0 08:04 ?        00:00:00 /usr/libexec/ibus-portal
+bansikah    3030    2464  0 08:04 ?        00:01:07 /snap/multipass/10244/bin/multipass.gui --autostarting
+bansikah    3031    2464  0 08:04 ?        00:00:12 /snap/snap-store/959/usr/bin/snap-store --gapplication-service
+bansikah    3056    2779  0 08:04 ?        00:00:00 /snap/snapd-desktop-integration/83/usr/bin/snapd-desktop-integration
+bansikah    3077    2464  0 08:04 ?        00:00:02 /usr/libexec/xdg-desktop-portal
+bansikah    3106    2464  0 08:04 ?        00:00:01 /usr/libexec/xdg-desktop-portal-gnome
+bansikah    3111    2871  0 08:04 ?        00:00:01 /usr/libexec/ibus-engine-simple
+bansikah    3197    2669  2 08:04 ?        00:05:34 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.MXX4C2 -listen 4 -listen 5 -displayfd 6 -initfd 7
+bansikah    3236    2464  0 08:04 ?        00:00:03 /usr/libexec/tracker-miner-fs-3
+bansikah    3268    2464  0 08:04 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+bansikah    3294    2464  0 08:04 ?        00:00:02 /usr/libexec/gsd-xsettings
+bansikah    3296    2464  0 08:04 ?        00:00:01 /usr/libexec/xdg-desktop-portal-gtk
+bansikah    3329    2464  0 08:04 ?        00:00:01 /usr/libexec/ibus-x11
+bansikah    3433    2464  0 08:04 ?        00:00:00 /usr/libexec/gvfsd-metadata
+bansikah    3482    2464  0 08:04 ?        00:00:00 /usr/libexec/glib-pacrunner
+bansikah    3765    2669  1 08:05 ?        00:04:31 /usr/share/code/code --unity-launch
+bansikah    3769    3765  0 08:05 ?        00:00:00 /usr/share/code/code --type=zygote --no-zygote-sandbox
+bansikah    3770    3765  0 08:05 ?        00:00:00 /usr/share/code/code --type=zygote
+bansikah    3772    3770  0 08:05 ?        00:00:00 /usr/share/code/code --type=zygote
+bansikah    3786    2464  0 08:05 ?        00:00:00 /usr/share/code/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --no-rate-limit --database=/home/bansikah/.config/Code/Crashpad --url=appcenter://code?aid=fba07a4d-84bd-4fc8-a125-9640fc8ce171&uid=2ef5fb6b-4e39-4416-b2e2-a9fa518ca723&iid=2ef5fb6b-4e39-4416-b2e2-a9fa518ca723&sid=2ef5fb6b-4e39-4416-b2e2-a9fa518ca723 --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.83.1 --annotation=lsb-release=Ubuntu 22.04.3 LTS --annotation=plat=Linux --annotation=prod=Electron --annotation=ver=25.8.4 --initial-client-fd=42 --shared-client-connection
+bansikah    3800    3769  2 08:05 ?        00:06:57 /usr/share/code/code --type=gpu-process --crashpad-handler-pid=3786 --enable-crash-reporter=51976707-a2b7-4d7f-b62b-afd70f136b87,no_channel --user-data-dir=/home/bansikah/.config/Code --gpu-preferences=WAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --field-trial-handle=0,i,10722525874375635433,6030438111023066001,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess
+bansikah    3808    3765  0 08:05 ?        00:00:27 /usr/share/code/code --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=3786 --enable-crash-reporter=51976707-a2b7-4d7f-b62b-afd70f136b87,no_channel --user-data-dir=/home/bansikah/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,10722525874375635433,6030438111023066001,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess
+bansikah    3840    3772  3 08:05 ?        00:07:26 /usr/share/code/code --type=renderer --crashpad-handler-pid=3786 --enable-crash-reporter=51976707-a2b7-4d7f-b62b-afd70f136b87,no_channel --user-data-dir=/home/bansikah/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --app-path=/usr/share/code/resources/app --enable-sandbox --enable-blink-features=HighlightAPI --first-renderer-process --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1698217339554050 --launch-time-ticks=164685139 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,10722525874375635433,6030438111023066001,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --vscode-window-config=vscode:0d60acfe-550e-4a82-89c5-427af1e79f7f
+bansikah    3848    3772  0 08:05 ?        00:01:24 /usr/share/code/code --type=renderer --crashpad-handler-pid=3786 --enable-crash-reporter=51976707-a2b7-4d7f-b62b-afd70f136b87,no_channel --user-data-dir=/home/bansikah/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --app-path=/usr/share/code/resources/app --enable-sandbox --enable-blink-features=HighlightAPI --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1698217339554050 --launch-time-ticks=164804907 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,10722525874375635433,6030438111023066001,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --vscode-window-config=vscode:16dad644-0b5c-4c82-859e-9f1803bc2024
+bansikah    4004    3765  0 08:05 ?        00:01:57 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=3786 --enable-crash-reporter=51976707-a2b7-4d7f-b62b-afd70f136b87,no_channel --user-data-dir=/home/bansikah/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,10722525874375635433,6030438111023066001,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess
+bansikah    4005    3765  0 08:05 ?        00:00:09 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=3786 --enable-crash-reporter=51976707-a2b7-4d7f-b62b-afd70f136b87,no_channel --user-data-dir=/home/bansikah/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,10722525874375635433,6030438111023066001,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess
+bansikah    4028    3765  0 08:05 ?        00:00:58 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --dns-result-order=ipv4first --inspect-port=0 --crashpad-handler-pid=3786 --enable-crash-reporter=51976707-a2b7-4d7f-b62b-afd70f136b87,no_channel --user-data-dir=/home/bansikah/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,10722525874375635433,6030438111023066001,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess
+bansikah    4106    3765  0 08:05 ?        00:01:10 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --dns-result-order=ipv4first --inspect-port=0 --crashpad-handler-pid=3786 --enable-crash-reporter=51976707-a2b7-4d7f-b62b-afd70f136b87,no_channel --user-data-dir=/home/bansikah/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,10722525874375635433,6030438111023066001,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess
+bansikah    4122    3765  0 08:05 ?        00:00:09 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=3786 --enable-crash-reporter=51976707-a2b7-4d7f-b62b-afd70f136b87,no_channel --user-data-dir=/home/bansikah/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,10722525874375635433,6030438111023066001,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess
+bansikah    4289    2641  0 08:05 ?        00:00:02 update-notifier
+bansikah    4384    4106  0 08:05 ?        00:00:06 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=4106
+bansikah    4394    3772  0 08:05 ?        00:00:19 /usr/share/code/code --type=renderer --crashpad-handler-pid=3786 --enable-crash-reporter=51976707-a2b7-4d7f-b62b-afd70f136b87,no_channel --user-data-dir=/home/bansikah/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --app-path=/usr/share/code/resources/app --enable-sandbox --enable-blink-features=HighlightAPI --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=11 --time-ticks-at-unix-epoch=-1698217339554050 --launch-time-ticks=195902063 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,10722525874375635433,6030438111023066001,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --vscode-window-config=vscode:16dad644-0b5c-4c82-859e-9f1803bc2024
+bansikah    4435    3772  0 08:05 ?        00:00:19 /usr/share/code/code --type=renderer --crashpad-handler-pid=3786 --enable-crash-reporter=51976707-a2b7-4d7f-b62b-afd70f136b87,no_channel --user-data-dir=/home/bansikah/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --app-path=/usr/share/code/resources/app --enable-sandbox --enable-blink-features=HighlightAPI --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=12 --time-ticks-at-unix-epoch=-1698217339554050 --launch-time-ticks=214098547 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,10722525874375635433,6030438111023066001,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --vscode-window-config=vscode:0d60acfe-550e-4a82-89c5-427af1e79f7f
+bansikah    4499    4028  0 08:06 ?        00:00:06 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain --node-ipc --clientProcessId=4028
+bansikah    4543    2464  0 08:06 ?        00:00:00 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+bansikah    4546    4543  0 08:06 ?        00:00:00 /usr/bin/gnome-terminal.real --wait
+bansikah    4551    2464  0 08:06 ?        00:00:11 /usr/libexec/gnome-terminal-server
+bansikah    4569    4551  0 08:06 pts/0    00:00:00 bash
+bansikah    5026    2464  0 08:26 ?        00:00:24 /usr/bin/nautilus --gapplication-service
+bansikah    5737    2464  8 09:21 ?        00:13:07 /snap/vlc/3721/usr/bin/vlc --config=/home/bansikah/snap/vlc/common/vlcrc /home/bansikah/Desktop/First lesson/First Day/Graphical User Interfaces_ Crash Course Computer Science #26.mp4
+root        5960    4569  0 09:39 pts/0    00:00:00 sudo apt install python3-pip
+root        5961    5960  0 09:39 pts/1    00:00:00 sudo apt install python3-pip
+root        5962    5961  0 09:39 pts/1    00:00:01 apt install python3-pip
+root        6003    5962  0 09:39 pts/1    00:00:05 /usr/lib/apt/methods/cdrom
+bansikah    6035    3772  8 09:40 ?        00:11:17 /usr/share/code/code --type=renderer --crashpad-handler-pid=3786 --enable-crash-reporter=51976707-a2b7-4d7f-b62b-afd70f136b87,no_channel --user-data-dir=/home/bansikah/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --app-path=/usr/share/code/resources/app --enable-sandbox --enable-blink-features=HighlightAPI --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=13 --time-ticks-at-unix-epoch=-1698217339554050 --launch-time-ticks=5892396349 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,10722525874375635433,6030438111023066001,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --vscode-window-config=vscode:0d60acfe-550e-4a82-89c5-427af1e79f7f
+bansikah    6053    2669  0 09:41 ?        00:00:17 gnome-control-center
+bansikah    6167    3765  0 09:53 ?        00:01:01 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=3786 --enable-crash-reporter=51976707-a2b7-4d7f-b62b-afd70f136b87,no_channel --user-data-dir=/home/bansikah/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,10722525874375635433,6030438111023066001,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess
+bansikah    6184    6167  0 09:54 pts/2    00:00:00 /usr/bin/bash --init-file /usr/share/code/resources/app/out/vs/workbench/contrib/terminal/browser/media/shellIntegration-bash.sh
+root        6634       2  0 10:27 ?        00:00:00 [kworker/3:0-cgroup_destroy]
+root        6657       2  0 10:28 ?        00:00:04 [kworker/3:2-events]
+root        6662       2  0 10:30 ?        00:00:00 [kworker/2:0-cgroup_destroy]
+root        6686       2  0 10:37 ?        00:00:04 [kworker/2:2-events]
+bansikah    6712    2669  0 10:39 ?        00:00:13 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com -M 0 -D 0:0:1920:1080:1:27:0:0:0:0
+root        7254       2  0 10:52 ?        00:00:13 [kworker/u9:1-i915_flip]
+bansikah    7359    3772  8 10:53 ?        00:05:37 /usr/share/code/code --type=renderer --crashpad-handler-pid=3786 --enable-crash-reporter=51976707-a2b7-4d7f-b62b-afd70f136b87,no_channel --user-data-dir=/home/bansikah/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --app-path=/usr/share/code/resources/app --enable-sandbox --enable-blink-features=HighlightAPI --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=15 --time-ticks-at-unix-epoch=-1698217339554050 --launch-time-ticks=10291171452 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,10722525874375635433,6030438111023066001,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --vscode-window-config=vscode:dc96f2dc-9977-4ac2-a750-88ee93bea3fd
+root        7369       2  0 10:53 ?        00:00:03 [kworker/0:0-events]
+bansikah    7373    3765  0 10:53 ?        00:00:03 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=3786 --enable-crash-reporter=51976707-a2b7-4d7f-b62b-afd70f136b87,no_channel --user-data-dir=/home/bansikah/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,10722525874375635433,6030438111023066001,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess
+bansikah    7385    3765  0 10:53 ?        00:00:24 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --dns-result-order=ipv4first --inspect-port=0 --crashpad-handler-pid=3786 --enable-crash-reporter=51976707-a2b7-4d7f-b62b-afd70f136b87,no_channel --user-data-dir=/home/bansikah/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,10722525874375635433,6030438111023066001,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess
+bansikah    7447    6167  0 10:54 pts/3    00:00:00 /usr/bin/bash --init-file /usr/share/code/resources/app/out/vs/workbench/contrib/terminal/browser/media/shellIntegration-bash.sh
+bansikah    7950    6184  0 10:58 pts/2    00:00:00 bash correction.sh
+root        8115       1  0 11:01 ?        00:00:01 /usr/libexec/fwupd/fwupd
+root        8941       2  0 11:07 ?        00:00:02 [kworker/u8:2-i915]
+root        9722       2  0 11:22 ?        00:00:02 [kworker/u8:1-flush-8:0]
+bansikah    9723    2669 10 11:22 ?        00:03:27 /snap/whatsapp-4linux/3/whatsapp-4linux --no-sandbox
+bansikah    9787    9723  0 11:22 ?        00:00:00 /snap/whatsapp-4linux/3/whatsapp-4linux --type=zygote --no-zygote-sandbox --no-sandbox
+bansikah    9788    9723  0 11:22 ?        00:00:00 /snap/whatsapp-4linux/3/whatsapp-4linux --type=zygote --no-sandbox
+bansikah    9811    9787  8 11:22 ?        00:03:01 /snap/whatsapp-4linux/3/whatsapp-4linux --type=gpu-process --field-trial-handle=2844948811052478439,8840324658055678063,131072 --enable-features=WebComponentsV0Enabled --disable-features=CertVerifierService,CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess --no-sandbox --gpu-preferences=UAAAAAAAAAAgAAAQAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAA= --shared-files
+bansikah    9816    9723  0 11:22 ?        00:00:07 /snap/whatsapp-4linux/3/whatsapp-4linux --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=2844948811052478439,8840324658055678063,131072 --enable-features=WebComponentsV0Enabled --disable-features=CertVerifierService,CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess --lang=en-US --service-sandbox-type=network --no-sandbox --shared-files=v8_context_snapshot_data:100
+bansikah    9828    9723 30 11:22 ?        00:10:30 /snap/whatsapp-4linux/3/whatsapp-4linux --type=renderer --no-sandbox --field-trial-handle=2844948811052478439,8840324658055678063,131072 --enable-features=WebComponentsV0Enabled --disable-features=CertVerifierService,CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess --lang=en-US --app-path=/snap/whatsapp-4linux/3/resources/app.asar --no-sandbox --no-zygote --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=4 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+bansikah    9872    9723  0 11:24 ?        00:00:02 /snap/whatsapp-4linux/3/whatsapp-4linux --type=utility --utility-sub-type=audio.mojom.AudioService --field-trial-handle=2844948811052478439,8840324658055678063,131072 --enable-features=WebComponentsV0Enabled --disable-features=CertVerifierService,CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess --lang=en-US --service-sandbox-type=none --no-sandbox --shared-files=v8_context_snapshot_data:100
+root        9918       2  0 11:27 ?        00:00:06 [kworker/1:2-events]
+root        9979       2  0 11:33 ?        00:00:00 [kworker/1:3-events]
+root       10078       2  0 11:45 ?        00:00:00 [kworker/u9:0-rb_allocator]
+root       10083       2  0 11:46 ?        00:00:00 [kworker/0:1-events]
+root       10099       2  0 11:48 ?        00:00:00 [kworker/u8:3-flush-8:0]
+root       10121       2  0 11:53 ?        00:00:00 [kworker/u9:2]
+_apt       10165    1367  0 11:55 ?        00:00:00 /usr/lib/apt/methods/http
+_apt       10166    1367  0 11:55 ?        00:00:00 /usr/lib/apt/methods/https
+_apt       10167    1367  0 11:55 ?        00:00:00 /usr/lib/apt/methods/http
+_apt       10168    1367  0 11:55 ?        00:00:00 /usr/lib/apt/methods/http
+root       10169    1367  0 11:55 ?        00:00:00 /usr/lib/apt/methods/cdrom
+_apt       10171    1367  0 11:55 ?        00:00:00 /usr/lib/apt/methods/gpgv
+root       10237       2  0 11:55 ?        00:00:00 [kworker/2:1-events]
+root       10240       2  0 11:55 ?        00:00:00 [kworker/1:0-events]
+root       10241       2  0 11:55 ?        00:00:00 [kworker/1:1]
+root       10242       2  0 11:55 ?        00:00:00 [kworker/u8:0-events_unbound]
+root       10243       2  0 11:55 ?        00:00:00 [kworker/3:1-events]
+bansikah   10350    7447  0 11:57 pts/3    00:00:00 bash script.sh
+bansikah   10375    6167  0 11:57 ?        00:00:00 /bin/sh -c "/usr/share/code/resources/app/out/vs/base/node/cpuUsage.sh" 7447 10350
+bansikah   10376   10375  0 11:57 ?        00:00:00 /bin/bash /usr/share/code/resources/app/out/vs/base/node/cpuUsage.sh 7447 10350
+bansikah   10380   10376  0 11:57 ?        00:00:00 sleep 1
+bansikah   10381   10350  0 11:57 pts/3    00:00:00 ps -ef
