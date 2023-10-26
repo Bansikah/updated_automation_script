@@ -1,0 +1,14 @@
+name: Selenium Test Workflow
+
+on: push
+
+jobs:
+  Selenium_Test_Job1:
+     name: Selenium Test Job
+     runs-on: ubuntu-latest
+
+     steps:
+       - run: echo "This is running inside a ${{ runner.os }} server in GitHub"
+       - name: Check out source code
+         uses: actions/checkout@v2.4.0
+       - run: echo "This repo is ${{ github.repository }} .." 
