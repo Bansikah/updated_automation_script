@@ -16,3 +16,4 @@ jobs:
          run: |
             mkdir newfolder
             ls -l
+         shell: bash
